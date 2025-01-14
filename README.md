@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/mahmoodalikhan1999/balancingdata.git
    cd Data_Balancing_Project
    ```
 
